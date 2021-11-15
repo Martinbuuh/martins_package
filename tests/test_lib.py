@@ -1,4 +1,4 @@
-from martins_package.weather import search_city, weather_forecast, main
+from martins_package.weather import *
 
 query = 'london'
 
