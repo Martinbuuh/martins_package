@@ -45,6 +45,9 @@ def main():
             )
     # $CHALLENGIFY_END
 
+def hello():
+    print('Hello world')
+
 
 if __name__ == '__main__':
     try:
